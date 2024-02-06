@@ -1,4 +1,7 @@
 # Nutritionist Generative-AI Doctor using Google Gemini Pro
+
+![Screenshot from 2024-02-06 12-54-34](https://github.com/SyedAsadRazaDevops/gemini-health-app/assets/71556060/e24ec7c2-78f2-42b2-8f11-d9691e8218ee)
+
 Welcome to the Nutritionist Generative AI Doctor repository! This innovative application leverages Google Gemini Pro Vision Large Language Models (LLMs) to create a powerful tool for nutritional guidance. With an intuitive streamlit UI, users can easily interact with the Nutritionist Generative AI Doctor to analyze food items and receive personalized recommendations.
 
 ## Features:
