@@ -18,7 +18,7 @@ Welcome to the Nutritionist Generative AI Doctor repository! This innovative app
 
 ## Application Links:
 
-- **Try the App:** [Nutritionist Generative AI Doctor](https://lnkd.in/dN9J9BQs)
+- **Try the App:** [Nutritionist Generative AI Doctor](https://health-application.streamlit.app/)
 - **GitHub Repository:** [Nutritionist Generative-AI Doctor on GitHub](https://lnkd.in/duw6P-hz)
 
 ## Getting Started:
