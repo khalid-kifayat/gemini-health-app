@@ -36,6 +36,8 @@ def input_image_setup(uploaded_file):
 ##initialize our streamlit app
 
 st.set_page_config(page_title="Gemini Health App")
+st.title("🤖 Health App - Google Gemini-Pro Vision API")
+st.subheader ('Upload food pic, find out total # of calaroies, whether its good or bad for health ✅')
 
 # Footer
 st.markdown("""
