@@ -1,42 +1,75 @@
-# Nutritionist Generative-AI Doctor using Google Gemini Pro
+# gemini-health-app 🚀
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Screenshot from 2024-02-06 12-54-34](https://github.com/SyedAsadRazaDevops/gemini-health-app/assets/71556060/e24ec7c2-78f2-42b2-8f11-d9691e8218ee)
+A Python-powered health application! 🔍
 
-Welcome to the Nutritionist Generative AI Doctor repository! This innovative application leverages Google Gemini Pro Vision Large Language Models (LLMs) to create a powerful tool for nutritional guidance. With an intuitive streamlit UI, users can easily interact with the Nutritionist Generative AI Doctor to analyze food items and receive personalized recommendations.
+## 📑 Table of Contents
+- [Repository Structure](#repository-structure)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Features:
+## Repository Structure 📂
 
-1. **Gemini Vision API Integration:** The application seamlessly integrates with Google Gemini Vision API, allowing it to detect and analyze uploaded images of food items.
-2. **Calorie Calculation:** The core functionality of the AI doctor involves accurate calorie calculation for each food item. The model considers the nutritional content and provides insights into the calories present in the uploaded image.
-3. **Personalized Recommendations:** Based on the calculated calories and the user's daily caloric needs, the AI doctor recommends whether the user should consume the food item. This personalized guidance is aimed at helping users make informed dietary choices.
-
-## Usage:
-
-1. **Upload Image:** Users can upload images of food items through the user-friendly interface.
-2. **Calorie Analysis:** The AI doctor will analyze the uploaded image using the Gemini Vision API, providing detailed information on the calorie content.
-3. **Recommendations:** Users will receive recommendations on whether to include the food item in their daily diet, considering their individual caloric requirements.
-
-## Application Links:
-
-- **Try the App:** [Nutritionist Generative AI Doctor](https://health-application.streamlit.app/)
-- **GitHub Repository:** [Nutritionist Generative-AI Doctor on GitHub](https://lnkd.in/duw6P-hz)
-
-## Getting Started:
-
-To get started with the Nutritionist Generative AI Doctor locally, follow these steps:
-
-1. Clone the repository:
-```bash
-git clone https://github.com/khalid-kifayat/gemini-health-app.git
+```plaintext
+├── .gitignore
+├── README.md
+├── Resume-khalid.pdf
+├── health.py
+├── image.png
+├── junk.png
+└── requirements.txt
 ```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the application:
-```bash
-streamlit run app.py
-```
-Feel free to explore, contribute, and enhance the Nutritionist Generative AI Doctor to make it an even more powerful tool for promoting healthy eating habits. If you encounter any issues or have suggestions, please open an issue on the GitHub repository.
 
-**Happy and healthy coding! 🥗🤖**
+## Features 🌟
+
+- **Health Application** 🏥: A simple Python application for health-related tasks.
+- **Python Script** 🐍: The application is built using a single Python script `health.py`.
+
+## Installation 🛠️
+
+1. **Clone the Repository** 📥:
+ ```bash
+ git clone https://github.com/username/gemini-health-app.git
+ cd gemini-health-app
+ ```
+
+2. **Install Dependencies** 📦:
+ ```bash
+ pip install -r requirements.txt
+ ```
+
+## Usage 🎯
+
+1. **Run the Application** 🚀:
+ ```bash
+ python health.py
+ ```
+
+## Contributing 🤝
+
+We welcome contributions! Follow these steps to contribute:
+1. Fork the repository 🍴.
+2. Create a new branch (`git checkout -b feature/your-feature`) 🌿.
+3. Commit your changes (`git commit -m "Add your feature"`) ✅.
+4. Push to the branch (`git push origin feature/your-feature`) 🚀.
+5. Open a pull request 📬.
+
+## License 📜
+
+This project is licensed under the MIT License. See the LICENSE file for details (not included in this repository).
+
+## Project Description 🌟
+
+The gemini-health-app is a simple Python application for health-related tasks. It is built using a single Python script `health.py`.
+
+## Requirements 📝
+
+- Python 3.x
+- pip
+
+## Example 📈
+
+No specific examples are available for this project. However, you can run the application using `python health.py` and explore its functionality.
